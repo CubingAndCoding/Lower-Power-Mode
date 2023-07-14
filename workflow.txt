@@ -1,0 +1,9 @@
+Game Theme: Running Out of Energy
+
+Core Mechanic:
+    1. Enemy has a limited amount of energy
+    2. Player has to drain the enemy's energy to win
+    3. Player has to avoid the enemy to not lose
+    5. Player can use energy to speed up
+    6. Player can use energy to damage enemy
+    7. Player can pick up item to increase energy level
